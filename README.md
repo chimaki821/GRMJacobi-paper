@@ -1,5 +1,5 @@
 # GRMJacobi-paper
-This is a complemental repository for Conjecture 4.3 of https://arxiv.org/abs/2309.01119.
+This repository serves as a supplementary resource for Conjecture 4.3 presented in https://arxiv.org/abs/2309.01119.
 Let $q$ be prime power and $m$ be a integer, and suppose $q \geq 3$ and $m \geq 2$. We define $f_{q, m}(x, y) \in \mathbb{Z}[x, y]$ as following:
 $$f_{q, m}(x, y) = \{x + (q - 1)y\}^{q^{m-1} - 3}(x - y)^{(q-1)q^{m-1} - 3}.$$
 We conjecture that for arbitrary $k = 0,\dots, q^m-6$, the coefficient of $x^{q^m-k-6}y^k$ is not equal to zero.
